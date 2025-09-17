@@ -485,3 +485,11 @@ A startup de streaming de música DicasMeló utiliza um sistema de recomendaçã
 
 - Explique como a filtragem colaborativa funciona em sistemas de recomendação, destacando suas vantagens e desvantagens no contexto da DicasMeló. 
 - Discuta também como o sistema atual pode melhorar para lidar com novos usuários ou novas músicas. 
+
+## Gabarito
+
+<br>
+<div align="center"> 
+    <img src="./assets/gabaritoM3.PNG" />
+</div>
+<br>
