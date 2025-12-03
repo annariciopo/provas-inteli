@@ -18,25 +18,25 @@ IV. O monitoramento em tempo real da qualidade do ar pode ser utilizado para ger
 
 É correto o que se afirma em:
 
-**A)** I, II e III, apenas. </br>
-**B)** I, II e IV, apenas. </br>
-**C)** I, III e IV, apenas. </br>
-**D)** II, III e IV, apenas. </br>
-**E)** I, II, III e IV. </br>
+A) I, II e III, apenas. </br>
+B) I, II e IV, apenas. </br>
+C) I, III e IV, apenas. </br>
+D) II, III e IV, apenas. </br>
+E) I, II, III e IV. </br>
 
 ### Questão 2
 
-Um estudante de tecnologia está avaliando o lançamento de uma solução tecnológica voltada para pequenas e médias empresas. Para isso, realizou um estudo de viabilidade financeira utilizando o método do Valor Presente Líquido (VPL). O VPL é obtido pela diferença entre o valor dos benefícios futuros de caixa (F**C)**, descontados a uma taxa conhecida como taxa mínima de atratividade, e o valor do investimento inicial do projeto. </br>
+Um estudante de tecnologia está avaliando o lançamento de uma solução tecnológica voltada para pequenas e médias empresas. Para isso, realizou um estudo de viabilidade financeira utilizando o método do Valor Presente Líquido (VPL). O VPL é obtido pela diferença entre o valor dos benefícios futuros de caixa (FC), descontados a uma taxa conhecida como taxa mínima de atratividade, e o valor do investimento inicial do projeto. </br>
 
 Para este projeto, o valor do investimento inicial é de R$ 100.000,00, enquanto o valor presente dos benefícios futuros projetados foi calculado em R$ 90.000,00. Com base nessas informações, você acha que o estudante deve seguir com o projeto? 
 
 Assinale a alternativa correta.
 
-**A)** Sim, pois o VPL é positivo, dado por R$100.000,00 </br>
-**B)** Sim, pois o VPL é positivo, dado por R$190.000,00 </br>
-**C)** Sim, pois o VPL é positivo, dado por R$10.000,00 </br>
-**D)** Não, pois o VPL é negativo, dado por -R$10.000,00 </br>
-**E)** Não, pois o VPL é negativo, dado por -R$90.000,00 </br>
+A) Sim, pois o VPL é positivo, dado por R$100.000,00 </br>
+B) Sim, pois o VPL é positivo, dado por R$190.000,00 </br>
+C) Sim, pois o VPL é positivo, dado por R$10.000,00 </br>
+D) Não, pois o VPL é negativo, dado por -R$10.000,00 </br>
+E) Não, pois o VPL é negativo, dado por -R$90.000,00 </br>
 
 ### Questão 3
 
@@ -46,16 +46,16 @@ Recentemente, a empresa está avaliando o preço de venda de um novo produto, um
 
 Os custos e despesas variáveis associados à produção e venda de cada unidade do "Hub Inteligente" são os seguintes:
 
-**Custo variável por unidade (produção)**: R$ 120,00
-**Despesa variável por unidade (marketing e distribuição)**: R$ 30,00
+Custo variável por unidade (produção): R$ 120,00
+Despesa variável por unidade (marketing e distribuição): R$ 30,00
 
 A empresa deseja atingir uma margem de contribuição de 40% sobre o preço de venda do produto. Sabendo disso, qual deve ser o preço de venda mínimo por unidade do "Hub Inteligente" para atingir a margem de contribuição desejada?
 
-**A)** R$ 200,00 </br>
-**B)** R$ 250,00 </br>
-**C)** R$ 300,00     </br>
-**D)** R$ 350,00 </br>
-**E)** R$ 400,00 </br>
+A) R$ 200,00 </br>
+B) R$ 250,00 </br>
+C) R$ 300,00     </br>
+D) R$ 350,00 </br>
+E) R$ 400,00 </br>
 
 ### Questão 4
 
@@ -63,11 +63,11 @@ A Computação em Nuvem tem transformado a forma como as empresas gerenciam suas
 
 Com base no documento, qual é uma das principais vantagens da Computação em Nuvem para as empresas nesse contexto?
 
-**A)** Aumento da velocidade de processamento de dados, devido ao incremento na capacidade computacional. </br>
-**B)** Aumento da precisão dos modelos preditivos, devido a uma maior utilização de algoritmos. </br>
-**C)** Escalabilidade a custos reduzidos, pagando apenas pelo que é utilizado. </br>
-**D)** Fim da redundância dos sistemas. </br>
-**E)** Facilidade em acessar dados sigilosos devido à alta conectividade. </br>
+A) Aumento da velocidade de processamento de dados, devido ao incremento na capacidade computacional. </br>
+B) Aumento da precisão dos modelos preditivos, devido a uma maior utilização de algoritmos. </br>
+C) Escalabilidade a custos reduzidos, pagando apenas pelo que é utilizado. </br>
+D) Fim da redundância dos sistemas. </br>
+E) Facilidade em acessar dados sigilosos devido à alta conectividade. </br>
 
 ### Questão 5
 
@@ -85,11 +85,11 @@ Considerando o conteúdo estudado sobre projeções e vistas, assinale a alterna
 </div>
 <br>
 
-**A)** O alaúde desenhado será representado com uma projeção perspectiva, pois utiliza pontos de fuga (ponto 1) para simular a visão humana, criando uma representação tridimensional que pode causar distorções visuais para aumentar o realismo. </br>
-**B)** O alaúde desenhado será representado com uma projeção isométrica, na qual os pontos 1, 2 e 3 são usados para criar uma profundidade realista, com linhas divergentes que simulam o olhar humano, mas mantém as medidas precisamente retratadas. </br>
-**C)** O alaúde desenhado será representado com uma projeção ortográfica, já que o mecanismo utiliza linhas inclinadas (como a ligação entre os pontos 1 e 3) para mostrar a profundidade do objeto com medidas precisas. </br>
-**D)** O alaúde desenhado será representado com uma projeção multivista, na qual o objeto é representado por vistas planas (frontal, lateral e superior), sem linhas convergentes ou distorções, o que garante medidas precisas na ilustração. </br>
-**E)** O alaúde desenhado será representado com uma projeção perspectiva, onde todas as linhas (como as ligadas aos pontos 2 e 4) permanecem paralelas, criando uma representação proporcional e sem distorções. </br>
+A) O alaúde desenhado será representado com uma projeção perspectiva, pois utiliza pontos de fuga (ponto 1) para simular a visão humana, criando uma representação tridimensional que pode causar distorções visuais para aumentar o realismo. </br>
+B) O alaúde desenhado será representado com uma projeção isométrica, na qual os pontos 1, 2 e 3 são usados para criar uma profundidade realista, com linhas divergentes que simulam o olhar humano, mas mantém as medidas precisamente retratadas. </br>
+C) O alaúde desenhado será representado com uma projeção ortográfica, já que o mecanismo utiliza linhas inclinadas (como a ligação entre os pontos 1 e 3) para mostrar a profundidade do objeto com medidas precisas. </br>
+D) O alaúde desenhado será representado com uma projeção multivista, na qual o objeto é representado por vistas planas (frontal, lateral e superior), sem linhas convergentes ou distorções, o que garante medidas precisas na ilustração. </br>
+E) O alaúde desenhado será representado com uma projeção perspectiva, onde todas as linhas (como as ligadas aos pontos 2 e 4) permanecem paralelas, criando uma representação proporcional e sem distorções. </br>
 
 ### Questão 6
 
@@ -103,7 +103,7 @@ Durante o processo de design, foram identificados três desafios principais:
 
 - Proporcionar uma experiência fluida ao alternar entre diferentes dispositivos e plataformas.
 
-Para resolver esses desafios, a equipe aplicou os conceitos discutidos no **autoestudo sobre usabilidade e design de interação em IoT**. Complete as lacunas com os princípios que melhor descrevem as soluções aplicadas:
+Para resolver esses desafios, a equipe aplicou os conceitos discutidos no autoestudo sobre usabilidade e design de interação em IoT. Complete as lacunas com os princípios que melhor descrevem as soluções aplicadas:
 
 1. A ___________ organiza como as funcionalidades são distribuídas entre os dispositivos, maximizando a eficiência do sistema.
 
@@ -113,11 +113,11 @@ Para resolver esses desafios, a equipe aplicou os conceitos discutidos no **auto
 
 Assinale a alternativa que associa corretamente os princípios.
 
-**A)** 1) Consistência, 2) Continuidade, 3) Composição. </br>
-**B)** 1) Continuidade, 2) Composição, 3) Consistência. </br>
-**C)** 1) Composição, 2) Consistência, 3) Continuidade. </br>
-**D)** 1) Consistência, 2) Composição, 3) Continuidade. </br>
-**E)** 1) Continuidade, 2) Consistência, 3) Composição. </br>
+A) 1) Consistência, 2) Continuidade, 3) Composição. </br>
+B) 1) Continuidade, 2) Composição, 3) Consistência. </br>
+C) 1) Composição, 2) Consistência, 3) Continuidade. </br>
+D) 1) Consistência, 2) Composição, 3) Continuidade. </br>
+E) 1) Continuidade, 2) Consistência, 3) Composição. </br>
 
 ### Questão 7
 
@@ -135,11 +135,11 @@ IV. Sensores digitais são ideais para medições contínuas, pois fornecem valo
 
 Estão corretas as afirmações:
 
-**A)** I e II, apenas. </br>
-**B)** I, II e III, apenas. </br>
-**C)** II e IV, apenas. </br>
-**D)** III e IV, apenas. </br>
-**E)** I, II, III e IV. </br>
+A) I e II, apenas. </br>
+B) I, II e III, apenas. </br>
+C) II e IV, apenas. </br>
+D) III e IV, apenas. </br>
+E) I, II, III e IV. </br>
 
 ### Questão 8
 
@@ -158,21 +158,21 @@ III) Uma conexão de Internet bem sucedida é devido à sua baixa latência, ess
 IV) Fazendo um comparativo da potência do sinal WiFi do Inteli, para garantir o funcionamento adequado do sistema IoT, é necessário que o sinal 5G tenha uma intensidade mínima de -40 dBm nas áreas onde os sensores estão instalados.
 Sobre essas afirmações:
  
-**A)** Somente I é falsa; </br>
-**B)** Somente I e II são falsas; </br>
-**C)** Somente II e III são falsas; </br>
-**D)** Somente III e IV são falsas; </br>
-**E)** Somente IV é falsa. </br>
+A) Somente I é falsa; </br>
+B) Somente I e II são falsas; </br>
+C) Somente II e III são falsas; </br>
+D) Somente III e IV são falsas; </br>
+E) Somente IV é falsa. </br>
 
 ### Questão 9
 
 Depois de construir um pequeno sistema elétrico, um aluno estava percebendo inconsistências em alguns procedimentos e resolveu investigar. Seu professor comentou que, possivelmente, era um problema de bouncing. O aluno, desconhecendo do que se tratava, resolveu pesquisar e levou ao professor um resumo do que havia aprendido para que fosse validado, conforme consta nas alternativas abaixo. De todas as afirmações, apenas uma estava INCORRETA. Qual? 
 
-**A)** O efeito Bouncing ocorre devido a vibrações mecânicas no contato de botões ou chaves, gerando múltiplos pulsos elétricos ao invés de um único, o que pode causar leituras incorretas em sistemas digitais. </br>
-**B)** O uso de um capacitor ou circuito RC elimina a necessidade de implementar soluções via software para o efeito Bouncing. </br>
-**C)** Um capacitor pode ser usado como solução de hardware para o Bouncing, pois ele suaviza as variações rápidas no sinal ao carregar e descarregar, funcionando como um filtro de ruído. </br>
-**D)** O uso de um circuito RC (Resistor-Capacitor) é uma solução de hardware eficiente para eliminar o Bouncing, pois cria um atraso controlado na resposta elétrica que filtra os pulsos indesejados. </br>
-**E)** Em soluções via software, uma rotina baseada na função millis() pode ser usada para implementar um debounce, ignorando múltiplas leituras dentro de um intervalo de tempo especificado. </br>
+A) O efeito Bouncing ocorre devido a vibrações mecânicas no contato de botões ou chaves, gerando múltiplos pulsos elétricos ao invés de um único, o que pode causar leituras incorretas em sistemas digitais. </br>
+B) O uso de um capacitor ou circuito RC elimina a necessidade de implementar soluções via software para o efeito Bouncing. </br>
+C) Um capacitor pode ser usado como solução de hardware para o Bouncing, pois ele suaviza as variações rápidas no sinal ao carregar e descarregar, funcionando como um filtro de ruído. </br>
+D) O uso de um circuito RC (Resistor-Capacitor) é uma solução de hardware eficiente para eliminar o Bouncing, pois cria um atraso controlado na resposta elétrica que filtra os pulsos indesejados. </br>
+E) Em soluções via software, uma rotina baseada na função millis() pode ser usada para implementar um debounce, ignorando múltiplas leituras dentro de um intervalo de tempo especificado. </br>
 
 ### Questão 10
 
@@ -188,41 +188,41 @@ IV. O disparo de um atuador pode ser implementado com um módulo relé composto 
 
 Assinale quais das afirmativas acima estão corretas:
  
-**A)** Somente I e III. </br>
-**B)** Somente II e IV. </br>
-**C)** Somente I, III e IV. </br>
-**D)** Somente I, II e III. </br>
-**E)** Todas as afirmações estão corretas. </br>
+A) Somente I e III. </br>
+B) Somente II e IV. </br>
+C) Somente I, III e IV. </br>
+D) Somente I, II e III. </br>
+E) Todas as afirmações estão corretas. </br>
 
 ### Questão 11
 
 [Clique aqui para abrir a questão 11](questoes-matematica/Q11.pdf) em formato .pdf e em seguida selecione a opção correta abaixo. 
 
-**A)** Alternativa A. </br>
-**B)** Alternativa B. </br>
-**C)** Alternativa C. </br>
-**D)** Alternativa D. </br>
-**E)** Alternativa E. </br>
+A) Alternativa A. </br>
+B) Alternativa B. </br>
+C) Alternativa C. </br>
+D) Alternativa D. </br>
+E) Alternativa E. </br>
 
 ### Questão 12
 
 [Clique aqui para abrir a questão 12](questoes-matematica/Q12.pdf) em formato .pdf e em seguida selecione a opção correta abaixo. 
 
-**A)** Alternativa A. </br>
-**B)** Alternativa B. </br>
-**C)** Alternativa C. </br>
-**D)** Alternativa D. </br>
-**E)** Alternativa E. </br>
+A) Alternativa A. </br>
+B) Alternativa B. </br>
+C) Alternativa C. </br>
+D) Alternativa D. </br>
+E) Alternativa E. </br>
 
 ### Questão 13
 
 [Clique aqui para abrir a questão 13](questoes-matematica/Q13.pdf) em formato .pdf e em seguida selecione a opção correta abaixo. 
 
-**A)** Alternativa A. </br>
-**B)** Alternativa B. </br>
-**C)** Alternativa C. </br>
-**D)** Alternativa D. </br>
-**E)** Alternativa E. </br>
+A) Alternativa A. </br>
+B) Alternativa B. </br>
+C) Alternativa C. </br>
+D) Alternativa D. </br>
+E) Alternativa E. </br>
 
 
 ## Questões Dissertativas
